@@ -2,7 +2,7 @@
 
 ## Estrutura da aplicação
 
-- [ ] Criando estrutura da aplicação
+- [x] Criando estrutura da aplicação
 - [ ] Adicionando TypeScript
 - [ ] Estilizando com SASS
 - [ ] Configurando fonte externa
