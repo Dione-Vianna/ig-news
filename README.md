@@ -3,7 +3,7 @@
 ## Estrutura da aplicação
 
 - [x] Criando estrutura da aplicação
-- [ ] Adicionando TypeScript
+- [x] Adicionando TypeScript
 - [ ] Estilizando com SASS
 - [ ] Configurando fonte externa
 - [ ] Title dinâmico por página
