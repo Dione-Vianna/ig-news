@@ -6,7 +6,7 @@
 - [x] Adicionando TypeScript
 - [x] Estilizando com SASS
 - [x] Configurando fonte externa
-- [ ] Title dinâmico por página
+- [x] Title dinâmico por página
 - [ ] Estilos globais do app
 
 ## Componentes e páginas
