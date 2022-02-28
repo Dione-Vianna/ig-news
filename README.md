@@ -12,7 +12,7 @@
 ## Componentes e páginas
 
 - [x] Componentes: Header
-- [ ] Componentes: SignInButton
+- [x] Componentes: SignInButton
 - [ ] Página: Home
 - [ ] Componentes: SubscribeButton
 
