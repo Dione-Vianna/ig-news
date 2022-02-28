@@ -14,7 +14,7 @@
 - [x] Componentes: Header
 - [x] Componentes: SignInButton
 - [x] Página: Home
-- [ ] Componentes: SubscribeButton
+- [x] Componentes: SubscribeButton
 
 ## Integração com API
 
