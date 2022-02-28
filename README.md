@@ -5,7 +5,7 @@
 - [x] Criando estrutura da aplicação
 - [x] Adicionando TypeScript
 - [x] Estilizando com SASS
-- [ ] Configurando fonte externa
+- [x] Configurando fonte externa
 - [ ] Title dinâmico por página
 - [ ] Estilos globais do app
 
