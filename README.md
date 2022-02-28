@@ -11,7 +11,7 @@
 
 ## Componentes e páginas
 
-- [ ] Componentes: Header
+- [x] Componentes: Header
 - [ ] Componentes: SignInButton
 - [ ] Página: Home
 - [ ] Componentes: SubscribeButton
