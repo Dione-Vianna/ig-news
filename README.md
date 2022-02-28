@@ -7,7 +7,7 @@
 - [x] Estilizando com SASS
 - [x] Configurando fonte externa
 - [x] Title dinâmico por página
-- [ ] Estilos globais do app
+- [x] Estilos globais do app
 
 ## Componentes e páginas
 
