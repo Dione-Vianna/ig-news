@@ -21,3 +21,10 @@
 - [x] Configurando Stripe
 - [x] Consumindo API do Stripe(SSR)
 - [x] Static Site Generation(SSG)
+
+## Api Routes no Next.js
+
+- [ ] Api routes no Next.js
+- [ ] Estratégias de autenticação
+- [ ] Parametrização de rotas
+- [ ] Autenticação com Next Auth
