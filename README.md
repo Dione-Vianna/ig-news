@@ -18,6 +18,6 @@
 
 ## Integração com API
 
-- [ ] Configurando Stripe
-- [ ] Consumindo API do Stripe(SSR)
+- [x] Configurando Stripe
+- [x] Consumindo API do Stripe(SSR)
 - [ ] Static Site Generation(SSG)
