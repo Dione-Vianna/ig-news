@@ -20,4 +20,4 @@
 
 - [x] Configurando Stripe
 - [x] Consumindo API do Stripe(SSR)
-- [ ] Static Site Generation(SSG)
+- [x] Static Site Generation(SSG)
